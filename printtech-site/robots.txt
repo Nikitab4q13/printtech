@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://printtech39.ru/sitemap.xml
